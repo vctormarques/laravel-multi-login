@@ -22,6 +22,8 @@ Aplicação desenvolvida utilizando multi login, são 3 perfis direntes acessos.
 
 ```
 - composer install
+- npm install
+- npm run dev
 - mude .env.example para .env na pasta raiz.
 - Abra o arquivo .env e altere o nome do banco de dados (DB_DATABASE) para o que tiver, o nome de usuário (DB_USERNAME) e a senha (DB_PASSWORD) correspondem à sua configuração.
 - Por padrão, o nome de usuário é root e você pode deixar o campo da senha em branco. (Isto é para Xampp)
